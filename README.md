@@ -15,28 +15,26 @@
 
 [![xiaoheihe-mcp](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=xiaoheihe-mcp&theme=tokyonight)](https://github.com/foxlesbiao/xiaoheihe-mcp)
 [![oppo-health-export](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=oppo-health-export&theme=tokyonight)](https://github.com/foxlesbiao/oppo-health-export)
-[![tomato-writer-mcp](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=tomato-writer-mcp&theme=tokyonight)](https://github.com/foxlesbiao/tomato-writer-mcp)
-[![hermes-agent](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=hermes-agent&theme=tokyonight)](https://github.com/foxlesbiao/hermes-agent)
-[![qq-agent-plus](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=qq-agent-plus&theme=tokyonight)](https://github.com/foxlesbiao/qq-agent-plus)
+[![oppo-health-cloud-mcp](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=oppo-health-cloud-mcp&theme=tokyonight)](https://github.com/foxlesbiao/oppo-health-cloud-mcp)
 [![steam-web-api-skill](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=steam-web-api-skill&theme=tokyonight)](https://github.com/foxlesbiao/steam-web-api-skill)
+[![astrbot_plugin_qq_keyword_alert](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=astrbot_plugin_qq_keyword_alert&theme=tokyonight)](https://github.com/foxlesbiao/astrbot_plugin_qq_keyword_alert)
+[![zhiyu-astrbot-aiqqavatar](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=zhiyu-astrbot-aiqqavatar&theme=tokyonight)](https://github.com/foxlesbiao/zhiyu-astrbot-aiqqavatar)
 
 ### 🌐 路由 / 网络
 
-[![Custom_OpenClash_Rules](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=Custom_OpenClash_Rules&theme=tokyonight)](https://github.com/foxlesbiao/Custom_OpenClash_Rules)
 [![shellcrash-singbox-rules](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=shellcrash-singbox-rules&theme=tokyonight)](https://github.com/foxlesbiao/shellcrash-singbox-rules)
-[![xiaomi-ax3000t-immortalwrt-hanwckf-firmware-build](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=xiaomi-ax3000t-immortalwrt-hanwckf-firmware-build&theme=tokyonight)](https://github.com/foxlesbiao/xiaomi-ax3000t-immortalwrt-hanwckf-firmware-build)
 
-### 🛠️ Android / 工具
+### 🛠️ 工具
 
-[![MaidMic](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=MaidMic&theme=tokyonight)](https://github.com/foxlesbiao/MaidMic)
 [![arch-cleaner-tui](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=arch-cleaner-tui&theme=tokyonight)](https://github.com/foxlesbiao/arch-cleaner-tui)
 [![openviking-dashboard](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=openviking-dashboard&theme=tokyonight)](https://github.com/foxlesbiao/openviking-dashboard)
-
-### 📖 其他工具
-
-[![linovelib2epub](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=linovelib2epub&theme=tokyonight)](https://github.com/foxlesbiao/linovelib2epub)
 [![mikanani-subscriber](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=mikanani-subscriber&theme=tokyonight)](https://github.com/foxlesbiao/mikanani-subscriber)
 [![ani2xcursor](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=ani2xcursor&theme=tokyonight)](https://github.com/foxlesbiao/ani2xcursor)
+[![mihoyo-pcgame-update-direct-link](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=mihoyo-pcgame-update-direct-link&theme=tokyonight)](https://github.com/foxlesbiao/mihoyo-pcgame-update-direct-link)
+
+### 📝 博客
+
+[![blog](https://github-readme-stats.vercel.app/api/pin/?username=foxlesbiao&repo=blog&theme=tokyonight)](https://github.com/foxlesbiao/blog)
 
 ---
 
